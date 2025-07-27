@@ -35,3 +35,16 @@ Create basic UI
 Create, review & merge pull request
 
 Note: Delete auth.schema
+
+## Ch 4
+
+Create Auth pages
+
+Create Auth layout
+
+Create Auth module
+
+Create Auth views
+Register form
+Login form
+Get App logo
