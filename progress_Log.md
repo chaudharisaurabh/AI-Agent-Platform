@@ -2,14 +2,15 @@
 
 Jul 20
 
-Ch1
+## Ch1
+
 Setup Next js
 
 Install UI/ shadcn UI (npx shadcn@2.5.0 init)
 
 Push project to Github
 
-Ch2
+## Ch2
 
 Database
 
@@ -21,3 +22,16 @@ add schema
 -- Verify changes in drizzle studio
 
 Create, review and merge pull request
+
+## Ch3
+
+Athentication setup
+
+Integrate Better-Auth
+Configure Auth Schema
+-Push changes
+Create basic UI
+-Create new users
+Create, review & merge pull request
+
+Note: Delete auth.schema
