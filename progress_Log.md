@@ -48,3 +48,11 @@ Create Auth views
 Register form
 Login form
 Get App logo
+
+#Ch 5 Authentication Socials
+
+Configure social providers
+Github
+Google
+
+    Protect non-auth pages
