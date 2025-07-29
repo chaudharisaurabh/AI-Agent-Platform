@@ -49,7 +49,7 @@ Register form
 Login form
 Get App logo
 
-#Ch 5 Authentication Socials
+## Ch 5 Authentication Socials
 
 Configure social providers
 Github
@@ -57,7 +57,7 @@ Google
 
     Protect non-auth pages
 
-# Ch6
+## Ch 6
 
 Dashboard layout
 
@@ -66,3 +66,10 @@ Create DashBoard Module
 Create Dashboard sidebar
 Modify global css
 Fix gradient colors in auth views
+
+## Ch7
+
+Dashboar Navbar
+
+Create DashBoard Navbar
+Add responsive drawer to Dashboard user button
