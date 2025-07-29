@@ -56,3 +56,13 @@ Github
 Google
 
     Protect non-auth pages
+
+# Ch6
+
+Dashboard layout
+
+Create Dashboard layout
+Create DashBoard Module
+Create Dashboard sidebar
+Modify global css
+Fix gradient colors in auth views
