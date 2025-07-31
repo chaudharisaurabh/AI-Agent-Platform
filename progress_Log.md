@@ -73,3 +73,10 @@ Dashboar Navbar
 
 Create DashBoard Navbar
 Add responsive drawer to Dashboard user button
+
+## Ch8 TRPC Setup
+
+Setup tRPC
+Experiment with client component
+Experiment with server component
+Preview prefetching
